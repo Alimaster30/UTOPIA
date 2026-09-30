@@ -1,0 +1,32 @@
+{
+  "pageCount": 63,
+  "capturedAssets": 386,
+  "assetBytes": 154257679,
+  "referencedAssets": 3304,
+  "missingLocalAssets": [],
+  "unavailableSourceAssets": [
+    {
+      "source": "https://viewbook.tiltonschool.org/wp-content/themes/tilton/assets/images/icons/calendar.svg",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "source": "https://viewbook.tiltonschool.org/wp-content/themes/tilton/assets/images/marker-dec.svg",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "unavailablePages": [
+    "https://viewbook.tiltonschool.org/how-tilton-can-help-you-excel-at-your-sport/"
+  ],
+  "knownSourceReferences": [
+    {
+      "file": "wp-content\\cache\\autoptimize\\css\\autoptimize_single_7a2ba677c8ab0b674604e8d45f7c565f.css",
+      "reference": "/wp-content/themes/tilton/assets/css/../images/icons/calendar.svg"
+    },
+    {
+      "file": "wp-content\\cache\\autoptimize\\css\\autoptimize_single_7a2ba677c8ab0b674604e8d45f7c565f.css",
+      "reference": "/wp-content/themes/tilton/assets/css/../images/marker-dec.svg"
+    }
+  ]
+}

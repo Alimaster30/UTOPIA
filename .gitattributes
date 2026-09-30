@@ -1,0 +1,5 @@
+* text=auto eol=lf
+# Captured assets must retain their exact bytes and recorded SHA-256 hashes.
+public/** -text
+reference/screenshots/** -text
+*.zip binary
